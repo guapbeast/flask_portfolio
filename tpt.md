@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 5.1: Beneficial and Harmful Effects
 People complete tasks to incorporate new ideas and innovations. 
 Effects can be seen as harmful
