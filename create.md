@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 For my create task, I'm going create a series of word games that the user could play just for entertainment, or to help the explore new items to buy depending on their preference. The first game that I'm going to program is a Hangman game where I have a Tea version and a Tee version, with words being set in both games leaving the user to figure them out. I would also have an CSP page that would lead the user to page that could help them to discover key terms related to AP Computer Science Principles. In order to create the game, I would have to use a series of JavaScript functions and Python, in order to create the structure and inner workings of the game and use HTML and CSS to make the game more user friendly and improve the UI.
 
 
