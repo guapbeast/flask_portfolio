@@ -1,4 +1,4 @@
-{% include tptnav.html %}
+{% include notes.html %}
 
 **5.3 Computing Bias**
 
