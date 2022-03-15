@@ -1,4 +1,7 @@
-5.3 Computing Bias
+{% include notes.html %}
+
+**5.3 Computing Bias**
+
 Ex: Netflix
 Explicit data: thumbs up/thumbs down, name, address, etc
 Implicit data: When you watch, what show you binge(d), style of show frequently selected
@@ -19,7 +22,9 @@ Questions to ask about bias:
 Enhancing or intentionally excluding? 
 Intentionally harmful/hateful?
 Receiving feedback from a wide variety of people?
-5.4 Crowdsourcing
+
+**5.4 Crowdsourcing**
+
 Public data sets
 Kaggle
 Courses in visualizations, TensorFlow, AI, machine learning, and more
