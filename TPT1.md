@@ -1,6 +1,6 @@
 {% include notes.html %}
 
-** 5.1 Beneficial and Harmful Effects (of computing innovations)**
+**5.1 Beneficial and Harmful Effects (of computing innovations)**
 
 _Video 1 How can the effects of computing innovations be beneficial and harmful?_
 
@@ -28,6 +28,6 @@ When using internet, we get a dopamine feedback loop when we get likes, comments
 
 Microtransactions Typically happen in free games/apps Little payments for you to get: Cosmetics Paywall to functionality Pay-to-win (powerups in games) A lot of times, you pay into a system’s currency Gold, vbucks, coins, chips, SBUX (starbucks) SBUX - your money is converted into SBUX, and you can only spend that money at starbucks Sometimes, this causes a casino effect because you don’t realize how much money you are spending, which results in you overpaying for something Loot boxes - you receive a box where you open and get a bunch of cosmetics and skins; considered gambling because it has an addictive nature Some of the ways computing innovations can be used may have a harmful impact on society, the economy, or culture. It is not possible for a programmer to consider all the ways a computing innovation can be used. Rapid sharing of a program or running a program with a large number of users can result in significant impacts beyond the intended purpsoe or control of the programmer
 
-**5.2 Notes **
+**5.2 Notes**
 
 Digital divide is differing access to computing devices and the internet. Socioeconomic groups How much money owned and made by household Geographic Characteristics High vs low wages Actions of individuals, governments, and organizations affect digital divides.
