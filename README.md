@@ -1,8 +1,7 @@
 {% include navigation.html %}
 # Nut-Team
 ## Project Idea: 
-Display of Pandemic Data as well as information and guidelines from the CDC on the Coronavirus and managing the Pandemic. Use of API's to update data real-time.
-
+We are going to make a page related to school that is helpful for deciding classes. We will have people input their classes and the website will tell them what other classes they should take that are similar or follow the same path as the input. We could also make a page that gives student feedback on classes that can be used to determine if they actually want to take the class. Maybe also make something where the user can input the credits they have and the website can display classes for their remaining needed credits, which may have descriptions.
 ## Table of Contents
 
 1. [Week 0](https://github.com/jacksongolding/Nut-Team/blob/main/README.md#week-0)
