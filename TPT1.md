@@ -1,9 +1,8 @@
 {% include notes.html %}
 
-**
-5.1: Beneficial and Harmful Effects 5.1 Beneficial and Harmful Effects (of computing innovations)**
-_
-Video 1 How can the effects of computing innovations be beneficial and harmful?_
+** 5.1 Beneficial and Harmful Effects (of computing innovations)**
+
+_Video 1 How can the effects of computing innovations be beneficial and harmful?_
 
 Essential Knowledge: People create computing innovations The way people complete tasks often changes to incorporate new computing innovations Not every effect of a computing innovation is anticipated in advance A single effect can be viewed as both beneficial and harmful by different people Advances in computing have generated and increased creativity in other fields, such as medicine, engineering, communications,and the arts
 
