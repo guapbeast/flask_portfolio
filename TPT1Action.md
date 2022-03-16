@@ -12,7 +12,14 @@ Dopamine issues are real, because individuals can develop an addiction to object
 
 
 
+
+
+
+
 **5.2 Digital Divide Action**
+
+
+
 
 _1. How does someone empower themself in a digital world?_
 
