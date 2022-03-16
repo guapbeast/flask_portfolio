@@ -11,8 +11,8 @@ _2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is 
 Dopamine issues are real, because individuals can develop an addiction to objects or substances, similar to how many individuals in High School deal with the implications of being distracted, spending hours on social media, such as TikTok.
 
 
-**
-5.2 Digital Divide Action**
+
+**5.2 Digital Divide Action**
 
 _1. How does someone empower themself in a digital world?_
 
