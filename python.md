@@ -1,4 +1,4 @@
-{% include navigation.html %}
+{% include pythonproject.html %}
 
 
 Code Snippet: Specific Python Files are imported into the main.py file in order to load their code into the main Menu bar.
