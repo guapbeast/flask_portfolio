@@ -14,7 +14,7 @@ What would you or should you do to produce a better outcome?
 
 
 
-**5.4** 
+**5.4 Crowdsourcing** 
 
 * **CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?**
 
