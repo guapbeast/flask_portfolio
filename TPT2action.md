@@ -15,7 +15,7 @@ _3. Is this harmful? Was it intended to be harmful or exclude?_
 Yes, it is harmful, because individuals don't get full access to the technology that they paid for based on their physical attributes. I don't think that the technology was meant to be harmful or exclude people, and rather, was unintentional.
 
 
-_ 4. Should it be corrected?_
+_4. Should it be corrected?_
 
 Yes, the error should be corrected to ensure an equally good experience for all customers of the product.
 
