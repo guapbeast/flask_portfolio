@@ -10,10 +10,18 @@ _2. How do you think this happened?_
 
 I think that when the technology was being designed, perspectives and ideas of all people weren't taken into account, leading to inherent bias in the technology.
 
-Is this harmful? Was it intended to be harmful or exclude?
-Should it be corrected?
-What would you or should you do to produce a better outcome?
+_3. Is this harmful? Was it intended to be harmful or exclude?_
 
+Yes, it is harmful, because individuals don't get full access to the technology that they paid for based on their physical attributes. I don't think that the technology was meant to be harmful or exclude people, and rather, was unintentional.
+
+
+_ 4. Should it be corrected?_
+
+Yes, the error should be corrected to ensure an equally good experience for all customers of the product.
+
+_5. What would you or should you do to produce a better outcome?_
+
+In order to produce a better outcome, measures need to be taken to include all people in the functionality of a technological development. This can be done through having a diverse array of people in the development of a technology, which would result in the diverse perspectives and ideas of all individuals involved to ensure a better representation of an equal experience.
 
 
 
