@@ -1,6 +1,6 @@
 {% include TPTactions.html %}
 
-**5.3**
+**5.3 Computing Bias**
 
 _1. Does the owner of the computer think this was intentional? If yes or no, justify you conclusion._
 
