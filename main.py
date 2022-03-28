@@ -2,6 +2,7 @@ from week0 import pattern
 from week0 import tree
 from week1 import infodb
 from week1 import fibonacci
+from week2 import factorial
 
 # menuy.py - function style menu
 # Imports typically listed at top
@@ -28,6 +29,7 @@ sub_menu = [
 math_sub_menu = [
     ["Movie Dictionary", infodb.tester],
     ["Fibonacci", fibonacci.tester],
+    ["Factorial", factorial.tester],
 ]
 
 # Menu banner is typically defined by menu owner
