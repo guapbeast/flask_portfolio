@@ -35,7 +35,7 @@ We are going to make a page related to school that is helpful for deciding class
 
 | Name | Review Ticket| Tasks | Commits |
 |:-----|:----------------------|:-----:|:-------:|
-| Ŕithwikh Várma | [Week 2](https://github.com/guapbeast/flask_portfolio/issues/5) |[Tasks](https://github.com/jacksongolding/Nut-Team/issues)|[Creation of Read-Me Page & Addition of Content](https://github.com/jacksongolding/Nut-Team/commit/982e7351420fc53f64c6457e75b8f1a9f060e43e) |
+| Ŕithwikh Várma | [Week 2](https://github.com/guapbeast/flask_portfolio/issues/5) |[Tasks](https://github.com/jacksongolding/Nut-Team/issues)|[Creation of PBL Page and Addition of Files](https://github.com/jacksongolding/Nut-Team/commit/5ca6c341052b0d96711883fac0ea4ee9d9bc99ac) |
 
 ## Week 3
 
