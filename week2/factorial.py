@@ -1,3 +1,5 @@
+# the factorial class acts as a blueprint for the creation of objects within python.
+
 class factorial:
   def __init__(self):
     self.facSeq = [0, 1]
@@ -12,3 +14,5 @@ class factorial:
 def tester():
   fibonacci_func = factorial()
   print("the Factorial of 7 is...", fibonacci_func(7))
+
+  # The python tester allows the function to run online.

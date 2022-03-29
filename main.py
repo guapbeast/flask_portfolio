@@ -31,12 +31,13 @@ math_sub_menu = [
     ["Movie Dictionary", infodb.tester],
     ["Fibonacci", fibonacci.tester],
     ["Factorial", factorial.tester],
-    ["Math Function", math.tester],
+    ["Math Function", math.gcd],
 ]
 
 # Menu banner is typically defined by menu owner
 border = "=" * 25
-banner = f"\n{border}\nPlease Select An Option\n{border}"
+banner_words = "Please Select An Option"
+banner = f"\n{border}\n{banner_words}\n{border}"
 
 
 # def menu
