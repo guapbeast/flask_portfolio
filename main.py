@@ -33,11 +33,13 @@ math_sub_menu = [
     ["Factorial", factorial.tester],
     ["Math Function", math.gcd],
 ]
-
+banner_words = "Please Select An Option"
+def title_print(words):
+  for i in range(0, len(words)): 
+    print(banner_words[i], end="")
 # Menu banner is typically defined by menu owner
 border = "=" * 25
-banner_words = "Please Select An Option"
-banner = f"\n{border}\n{banner_words}\n{border}"
+banner = f"\n{border}\n{title_print(banner_words)}\n{border}"
 
 
 # def menu
