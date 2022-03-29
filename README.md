@@ -30,7 +30,7 @@ We are going to make a page related to school that is helpful for deciding class
 
 | Name | Review Ticket| Tasks | Commits |
 |:-----|:----------------------|:-----:|:-------:|
-| Ŕithwikh Várma | [Week 1](https://github.com/guapbeast/flask_portfolio/issues/3) |[Tasks](https://github.com/jacksongolding/Nut-Team/issues)|[Creation of Read-Me Page & Addition of Content](https://github.com/jacksongolding/Nut-Team/commit/982e7351420fc53f64c6457e75b8f1a9f060e43e) |
+| Ŕithwikh Várma | [Week 1](https://github.com/guapbeast/flask_portfolio/issues/3) |[Tasks](https://github.com/jacksongolding/Nut-Team/issues)|[Jekyll Page Development](https://github.com/guapbeast/flask_portfolio/commit/ecd9ec68cd264e3c2da4171d25e14934c6cfe53e)) |
 
 
 ## Week 2
