@@ -21,20 +21,20 @@ We are going to make a page related to school that is helpful for deciding class
 
 | Name | Review Ticket| Tasks | Commits |
 |:-----|:----------------------|:-----:|:-------:|
-| Ŕithwikh Várma | [Tasks](https://github.com/jacksongolding/Nut-Team/issues) |[Creation of Read-Me Page & Addition of Content](https://github.com/jacksongolding/Nut-Team/commit/982e7351420fc53f64c6457e75b8f1a9f060e43e) |
+| Ŕithwikh Várma | [Week 0](https://github.com/guapbeast/flask_portfolio/issues/2) |[Creation of Read-Me Page & Addition of Content](https://github.com/jacksongolding/Nut-Team/commit/982e7351420fc53f64c6457e75b8f1a9f060e43e) |
 
 ## Week 1
 
 | Name | Review Ticket| Tasks | Commits |
 |:-----|:----------------------|:-----:|:-------:|
-| Ŕithwikh Várma | [Tasks](https://github.com/jacksongolding/Nut-Team/issues) |[Creation of Read-Me Page & Addition of Content](https://github.com/jacksongolding/Nut-Team/commit/982e7351420fc53f64c6457e75b8f1a9f060e43e) |
+| Ŕithwikh Várma | [Tasks](https://github.com/guapbeast/flask_portfolio/issues/3) |[Creation of Read-Me Page & Addition of Content](https://github.com/jacksongolding/Nut-Team/commit/982e7351420fc53f64c6457e75b8f1a9f060e43e) |
 
 
 ## Week 2
 
 | Name | Review Ticket| Tasks | Commits |
 |:-----|:----------------------|:-----:|:-------:|
-| Ŕithwikh Várma | [Tasks](https://github.com/jacksongolding/Nut-Team/issues) |[Creation of Read-Me Page & Addition of Content](https://github.com/jacksongolding/Nut-Team/commit/982e7351420fc53f64c6457e75b8f1a9f060e43e) |
+| Ŕithwikh Várma | [Tasks](https://github.com/guapbeast/flask_portfolio/issues/4) |[Creation of Read-Me Page & Addition of Content](https://github.com/jacksongolding/Nut-Team/commit/982e7351420fc53f64c6457e75b8f1a9f060e43e) |
 
 ## Week 3
 
