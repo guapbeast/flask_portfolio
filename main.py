@@ -4,7 +4,8 @@ from week1 import infodb
 from week1 import fibonacci
 from week2 import factorial
 from week2 import math
-
+from time import sleep
+import sys 
 # menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
@@ -34,14 +35,19 @@ math_sub_menu = [
     ["Math Function", math.gcd],
 ]
 banner_words = "Please Select An Option"
-def title_print(words):
-  for i in range(0, len(words)): 
-    print(banner_words[i], end="")
+def delay_print(s):
+    for c in s:
+        sys.stdout.write(c)
+        sys.stdout.flush()
+        sleep(0.25)
 # Menu banner is typically defined by menu owner
+
+def _banner_(): 
+  print(border)
+  delay_print(banner_words)
+  print(f"\n{border}")
 border = "=" * 25
-banner = f"\n{border}\n{title_print(banner_words)}\n{border}"
-
-
+banner = f"\n{_banner_()}\n"
 # def menu
 # using main_menu list:
 # 1. main menu and submenu reference are created [Prompts, Actions]
