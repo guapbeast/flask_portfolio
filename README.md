@@ -4,6 +4,9 @@ We are going to make a page related to school that is helpful for deciding class
 ## Table of Contents
 
 1. [Week 0](https://github.com/jacksongolding/Nut-Team/blob/main/README.md#week-0)
+2. [Week 1](https://github.com/jacksongolding/Nut-Team/blob/main/README.md#week-1)
+3. [Week 2](https://github.com/jacksongolding/Nut-Team/blob/main/README.md#week-2)
+4. [Week 3](https://github.com/jacksongolding/Nut-Team/blob/main/README.md#week-3)
 
 
 
