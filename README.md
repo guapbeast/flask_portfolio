@@ -3,10 +3,10 @@
 We are going to make a page related to school that is helpful for deciding classes. We will have people input their classes and the website will tell them what other classes they should take that are similar or follow the same path as the input. We could also make a page that gives student feedback on classes that can be used to determine if they actually want to take the class. Maybe also make something where the user can input the credits they have and the website can display classes for their remaining needed credits, which may have descriptions.
 ## Table of Contents
 
-1. [Week 0](https://github.com/jacksongolding/Nut-Team/blob/main/README.md#week-0)
-2. [Week 1](https://github.com/jacksongolding/Nut-Team/blob/main/README.md#week-1)
-3. [Week 2](https://github.com/jacksongolding/Nut-Team/blob/main/README.md#week-2)
-4. [Week 3](https://github.com/jacksongolding/Nut-Team/blob/main/README.md#week-3)
+1. [Week 0](https://github.com/guapbeast/flask_portfolio#week-0)
+2. [Week 1](https://github.com/guapbeast/flask_portfolio#week-1)
+3. [Week 2](https://github.com/guapbeast/flask_portfolio#week-2)
+4. [Week 3](https://github.com/guapbeast/flask_portfolio#week-3)
 
 
 
