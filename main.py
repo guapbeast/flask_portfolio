@@ -71,6 +71,7 @@ def math_submenu():
 
 def buildMenu(banner, options):
     # header for menu
+    print(f"\n{banner}")
     _banner_()
     # build a dictionary from options
     prompts = {0: ["Exit", None]}
