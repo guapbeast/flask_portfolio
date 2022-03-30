@@ -15,7 +15,7 @@ import sys
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
-main_menu = [
+menu_list = [
   #  ["Pattern", pattern.ship],
    # ["Tree", tree.treefunc],
    # ["Loopy", None],
@@ -43,7 +43,7 @@ def delay_print(s):
 # Menu banner is typically defined by menu owner
 
 def _banner_(): 
-  print(border)
+  print(f"\n{border}")
   delay_print(banner_words)
   print(f"\n{border}")
 border = "=" * 25
@@ -54,7 +54,7 @@ banner = f"\n{_banner_()}\n"
 # 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
 def menu():
     title = "Function Menu" + banner
-    menu_list = main_menu.copy()
+    # menu_list = main_menu.copy()
     menu_list.append(["Patterns", submenu])
     menu_list.append(["Math", math_submenu])
     buildMenu(title, menu_list)
