@@ -39,7 +39,7 @@ def delay_print(s):
     for c in s:
         sys.stdout.write(c)
         sys.stdout.flush()
-        sleep(0.25)
+        sleep(0.1)
 # Menu banner is typically defined by menu owner
 
 def _banner_(): 
@@ -53,7 +53,7 @@ banner = f"\n{_banner_()}\n"
 # 1. main menu and submenu reference are created [Prompts, Actions]
 # 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
 def menu():
-    title = "Function Menu" + banner
+    title = "Function Menu"
     # menu_list = main_menu.copy()
     menu_list.append(["Patterns", submenu])
     menu_list.append(["Math", math_submenu])
@@ -63,7 +63,7 @@ def menu():
 # using sub menu list above:
 # sub_menu works similarly to menu()
 def submenu():
-    title = "Function Submenu" + banner
+    title = "Function Submenu" + _banner_()
     buildMenu(title, sub_menu)
 def math_submenu():
     title = "Function Submenu" + banner
