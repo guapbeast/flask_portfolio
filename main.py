@@ -6,6 +6,8 @@ from week2 import factorial
 from week2 import math
 from time import sleep
 import sys 
+text_color = u"\u001b[32;1m"
+print(text_color)
 # menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
