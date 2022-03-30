@@ -47,7 +47,7 @@ def _banner_():
   delay_print(banner_words)
   print(f"\n{border}")
 border = "=" * 25
-banner = f"\n{_banner_()}\n"
+
 # def menu
 # using main_menu list:
 # 1. main menu and submenu reference are created [Prompts, Actions]
@@ -63,15 +63,15 @@ def menu():
 # using sub menu list above:
 # sub_menu works similarly to menu()
 def submenu():
-    title = "Function Submenu" + _banner_()
+    title = "Function Submenu"
     buildMenu(title, sub_menu)
 def math_submenu():
-    title = "Function Submenu" + banner
+    title = "Function Submenu"
     buildMenu(title, math_sub_menu)
 
 def buildMenu(banner, options):
     # header for menu
-    print(banner)
+    _banner_()
     # build a dictionary from options
     prompts = {0: ["Exit", None]}
     for op in options:
