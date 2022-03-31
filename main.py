@@ -1,6 +1,6 @@
 from week0 import pattern, tree 
 from week1 import infodb, fibonacci 
-from week2 import factorial, math
+from week2 import factorial, math, math2
 from time import sleep
 import sys 
 text_color = u"\u001b[32;1m"
@@ -31,7 +31,8 @@ math_sub_menu = [
     ["Movie Dictionary", infodb.tester],
     ["Fibonacci", fibonacci.tester],
     ["Factorial", factorial.tester],
-    ["Math Function", math.gcd],
+    ["Greatest Common Denominator", math.gcd],
+    ["Least Common Multiple", math2.lcm],
 ]
 banner_words = "Please Select An Option"
 def delay_print(s):
