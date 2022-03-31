@@ -1,9 +1,6 @@
-from week0 import pattern
-from week0 import tree
-from week1 import infodb
-from week1 import fibonacci
-from week2 import factorial
-from week2 import math
+from week0 import pattern, tree 
+from week1 import infodb, fibonacci 
+from week2 import factorial, math
 from time import sleep
 import sys 
 text_color = u"\u001b[32;1m"
