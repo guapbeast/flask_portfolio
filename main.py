@@ -3,7 +3,7 @@ from week1 import infodb, fibonacci
 from week2 import factorial, math, math2
 from time import sleep
 import sys 
-text_color = u"\u001b[32;1m"
+text_color = u"\u001b[38;5;46m"
 print(text_color)
 # menuy.py - function style menu
 # Imports typically listed at top
