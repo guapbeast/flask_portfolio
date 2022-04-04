@@ -29,9 +29,12 @@ Good passwords include different varying types of characters (uppercase, lowerca
 
 _4. Try to describe Symmetric and Asymmetric encryption._
 
-
+Symmetric encryption utilizes only one key, whereas Asymmetric encryption uses two keys, a public and a private key.
 
 _5. Provide and example of encryption we used in deployment._
 
+Sometimes the code needs to be encrypted in a deploy in order to prevent malicious individuals from interacting with the code. 
+
 _6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques._
 
+A phishing scheme that I've learned about the hard way is the use of emails to leak information. Another phishing technique is over call pretending to be a credible organization such as the IRS or a Bank to obtain personal information.
