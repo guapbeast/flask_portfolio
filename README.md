@@ -44,3 +44,10 @@ We are going to make a page related to school that is helpful for deciding class
 | Name | Review Ticket| Tasks | Commits |
 |:-----|:----------------------|:-----:|:-------:|
 | Ŕithwikh Várma | [Week 3](https://github.com/jacksongolding/Nut-Team/issues) |[Tasks](https://github.com/jacksongolding/Nut-Team/issues)|[...](https://github.com/jacksongolding/Nut-Team/commit/982e7351420fc53f64c6457e75b8f1a9f060e43e) |
+
+## Week 4
+
+| Name | Review Ticket| Tasks | Commits |
+|:-----|:----------------------|:-----:|:-------:|
+| Ŕithwikh Várma | [Week 3](https://github.com/jacksongolding/Nut-Team/issues) |[Tasks](https://github.com/jacksongolding/Nut-Team/issues)|[...](https://github.com/jacksongolding/Nut-Team/commit/982e7351420fc53f64c6457e75b8f1a9f060e43e) |
+
