@@ -13,3 +13,4 @@ I answered A for Question #1 (How long the problem takes to run), however, the c
 
 <img width="1437" alt="Screen Shot 2022-04-22 at 1 53 15 PM" src="https://user-images.githubusercontent.com/86858869/164791978-51b8c3fc-68f4-4f93-b766-c7a515640458.png">
 
+I answered B for Question #4 (The network would be considered fault-tolerant because it guarantees that no individual component will fail), however, the correct answer was A: The network is considered fault-tolerant because there are redundant paths between each pair of devices. B is the correct answer in this instance because the excess of paths between devices allows for a decreased chance of the network being taken down or rendered unusable.
