@@ -38,3 +38,9 @@ I answered C for Question #30 (I and II), which was incorrect; the correct answe
 <img width="1440" alt="Screen Shot 2022-04-25 at 1 06 41 PM" src="https://user-images.githubusercontent.com/86858869/165166390-2c9432ac-f760-41f6-bfd3-2f74496bb5fc.png">
 
 I answered B for Question # 45 (In which political candidates are people interested?), which was incorrect; the correct answer was C (What is the cost of a certain electronics product?), because the costs of certain electronic products were the only data not present in the database.
+
+**Question #46**
+
+<img width="1440" alt="Screen Shot 2022-04-25 at 1 09 18 PM" src="https://user-images.githubusercontent.com/86858869/165166798-88372165-b5bf-4549-9667-195cbd093b56.png">
+
+I answered A for Question # 46 (Open protocols allow devices to specify how data packets are to be routed on the Internet in advance.), which was incorrect; the correct answer was D (Open protocols provide a way to standardize data transmission between different devices.).
