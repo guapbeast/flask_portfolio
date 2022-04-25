@@ -18,3 +18,5 @@ I answered B for Question #4 (The network would be considered fault-tolerant bec
 **Question #23:**
 
 <img width="1437" alt="Screen Shot 2022-04-22 at 2 00 40 PM" src="https://user-images.githubusercontent.com/86858869/164792901-b3aef046-f914-4309-a26d-206c38ccc3b8.png">
+
+I answered B for Question # 23 (Each packet contains an encrypted version of the data to be transmitted, along with metadata containing the key needed to decrypt the data), which was incorrect because each packet contains data that needs to be transmitted, alongside metadata that helps with its routing. The correct answer was A (Each packet contains data to be transmitted, along with metadata containing information used for routing the data).
