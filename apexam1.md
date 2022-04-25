@@ -32,3 +32,9 @@ I answered B for Question #24 (Each packet contains an encrypted version of the 
 <img width="1440" alt="Screen Shot 2022-04-25 at 1 04 17 PM" src="https://user-images.githubusercontent.com/86858869/165166052-0ae5f7bf-dea8-434f-8fe6-71d822e63b0f.png">
 
 I answered C for Question #30 (I and II), which was incorrect; the correct answer was A (I only) because digital certificates are only used to verify the ownership of encrypted keys used in secured communication. 
+
+**Question #45**
+
+<img width="1440" alt="Screen Shot 2022-04-25 at 1 06 41 PM" src="https://user-images.githubusercontent.com/86858869/165166390-2c9432ac-f760-41f6-bfd3-2f74496bb5fc.png">
+
+I answered B for Question # 45 (In which political candidates are people interested?), which was incorrect; the correct answer was C (What is the cost of a certain electronics product?), because the costs of certain electronic products were the only data not present in the database.
