@@ -20,3 +20,9 @@ I answered B for Question #4 (The network would be considered fault-tolerant bec
 <img width="1437" alt="Screen Shot 2022-04-22 at 2 00 40 PM" src="https://user-images.githubusercontent.com/86858869/164792901-b3aef046-f914-4309-a26d-206c38ccc3b8.png">
 
 I answered A (An application that allows users to convert measurement units (e.g., inches to centimeters, ounces to liters)) for Question #23, which was incorrect; the correct answer was D (An application that allows users to view descriptions and photographs of local landmarks), because conversion rates are commonly known and searchable.
+
+**Question #43**
+
+![Screen Shot 2022-04-25 at 2 54 48 PM](https://user-images.githubusercontent.com/86858869/165181524-2fcf50a1-0c2d-4dd9-8989-d472e247aa5c.png)
+
+I answered C (The most expensive item purchased on a given date can be determined by searching the data for all items purchased on the given date and then sorting the matching items by item price) for Question #43, which was incorrect; the correct answer was D (The total number of items purchased on a given date can be determined by searching the data for all transactions that occurred on the given date and then adding the number of items purchased for each matching transaction), because the most expensive item cannot be determined by the use of the data collected.
