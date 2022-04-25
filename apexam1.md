@@ -27,3 +27,8 @@ I answered B for Question #23 (The Internet Protocol (IP) address of the user’
 
 I answered B for Question #24 (Each packet contains an encrypted version of the data to be transmitted, along with metadata containing the key needed to decrypt the data), which was incorrect because each packet contains data that needs to be transmitted, alongside metadata that helps with its routing. The correct answer was A (Each packet contains data to be transmitted, along with metadata containing information used for routing the data).
 
+**Question # 30**
+
+<img width="1440" alt="Screen Shot 2022-04-25 at 1 04 17 PM" src="https://user-images.githubusercontent.com/86858869/165166052-0ae5f7bf-dea8-434f-8fe6-71d822e63b0f.png">
+
+I answered C for Question #30 (I and II), which was incorrect; the correct answer was A (I only) because digital certificates are only used to verify the ownership of encrypted keys used in secured communication. 
