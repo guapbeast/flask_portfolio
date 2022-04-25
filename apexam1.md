@@ -19,11 +19,11 @@ I answered B for Question #4 (The network would be considered fault-tolerant bec
 
 <img width="1437" alt="Screen Shot 2022-04-22 at 2 00 40 PM" src="https://user-images.githubusercontent.com/86858869/164792901-b3aef046-f914-4309-a26d-206c38ccc3b8.png">
 
-I answered B for Question # 23 (Each packet contains an encrypted version of the data to be transmitted, along with metadata containing the key needed to decrypt the data), which was incorrect because each packet contains data that needs to be transmitted, alongside metadata that helps with its routing. The correct answer was A (Each packet contains data to be transmitted, along with metadata containing information used for routing the data).
+I answered B for Question #23 (The Internet Protocol (IP) address of the user’s computer), which was incorrect; the correct answer was A (A group of cookies stored by the user’s Web browser), because IP addresses don't contain any information about a user.
 
 **Question #24**
 
 <img width="1440" alt="Screen Shot 2022-04-25 at 12 54 59 PM" src="https://user-images.githubusercontent.com/86858869/165164666-d3ec9f47-61f8-4732-afa0-5ec49bb17e8e.png">
 
-I answered B for Question # 23 (Each packet contains an encrypted version of the data to be transmitted, along with metadata containing the key needed to decrypt the data), which was incorrect because each packet contains data that needs to be transmitted, alongside metadata that helps with its routing. The correct answer was A (Each packet contains data to be transmitted, along with metadata containing information used for routing the data).
+I answered B for Question #24 (Each packet contains an encrypted version of the data to be transmitted, along with metadata containing the key needed to decrypt the data), which was incorrect because each packet contains data that needs to be transmitted, alongside metadata that helps with its routing. The correct answer was A (Each packet contains data to be transmitted, along with metadata containing information used for routing the data).
 
