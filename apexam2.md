@@ -19,4 +19,4 @@ I answered B for Question #4 (The network would be considered fault-tolerant bec
 
 <img width="1437" alt="Screen Shot 2022-04-22 at 2 00 40 PM" src="https://user-images.githubusercontent.com/86858869/164792901-b3aef046-f914-4309-a26d-206c38ccc3b8.png">
 
-I answered B for Question #4 (The network would be considered fault-tolerant because it guarantees that no individual component will fail), however, the correct answer was A: The network is considered fault-tolerant because there are redundant paths between each pair of devices. B is the correct answer in this instance because the excess of paths
+I answered A (An application that allows users to convert measurement units (e.g., inches to centimeters, ounces to liters)) for Question #23, which was incorrect; the correct answer was D (An application that allows users to view descriptions and photographs of local landmarks), because conversion rates are commonly known and searchable.
