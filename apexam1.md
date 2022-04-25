@@ -43,4 +43,10 @@ I answered B for Question # 45 (In which political candidates are people interes
 
 <img width="1440" alt="Screen Shot 2022-04-25 at 1 09 18 PM" src="https://user-images.githubusercontent.com/86858869/165166798-88372165-b5bf-4549-9667-195cbd093b56.png">
 
-I answered A for Question # 46 (Open protocols allow devices to specify how data packets are to be routed on the Internet in advance.), which was incorrect; the correct answer was D (Open protocols provide a way to standardize data transmission between different devices.).
+I answered A for Question # 46 (Open protocols allow devices to specify how data packets are to be routed on the Internet in advance.), which was incorrect; the correct answer was D (Open protocols provide a way to standardize data transmission between different devices.)
+
+**Question #50**
+
+![Screen Shot 2022-04-25 at 1 10 59 PM](https://user-images.githubusercontent.com/86858869/165167067-5967b780-7b46-4a76-8caa-c8d59a4e7a77.png)
+
+I answered B (Creating the gray scale of an image by averaging the amounts of red, green, and blue in each pixel and assigning this new value to the corresponding pixel in the new image. The new value of each pixel represents a shade of gray, ranging from white to black) for Question #50, which was incorrect; the correct answer was C (Creating the negative of an image by creating a new RGB triplet for each pixel in which each value is calculated by subtracting the original value from 255. The negative of an image is reversed from the original; light areas appear dark, and colors are reversed)
