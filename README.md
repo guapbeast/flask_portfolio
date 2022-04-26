@@ -9,6 +9,8 @@ We are going to make a page related to school that is helpful for deciding class
 2. [Week 1](https://github.com/guapbeast/flask_portfolio#week-1)
 3. [Week 2](https://github.com/guapbeast/flask_portfolio#week-2)
 4. [Week 3](https://github.com/guapbeast/flask_portfolio#week-3)
+5. [Week 4](https://github.com/guapbeast/flask_portfolio#week-4)
+6. [Week 5](https://github.com/guapbeast/flask_portfolio#week-5)
 
 
 
