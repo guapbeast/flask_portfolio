@@ -1,5 +1,9 @@
 {% include APexamStudy.html %}
 
+
+**Total Score 46/50**
+
+
 **Question #1:**
 
 <img width="1440" alt="Screen Shot 2022-04-25 at 1 12 59 PM" src="https://user-images.githubusercontent.com/86858869/165167356-ed92a91f-223e-4215-8e01-d1b8c8ecc802.png">
