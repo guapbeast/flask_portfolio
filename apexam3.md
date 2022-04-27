@@ -18,9 +18,9 @@ I answered B for Question #3 (I and II), however, the correct answer was B: II o
 
 Question # 6 was a multiple answer choice problem and I chose answers A and C, which were incorrect; the correct answers were A and D because answer C doesn't display the number 20.
 
-**Question #23:**
+**Question #8**
 
-<img width="1437" alt="Screen Shot 2022-04-22 at 2 00 40 PM" src="https://user-images.githubusercontent.com/86858869/164792901-b3aef046-f914-4309-a26d-206c38ccc3b8.png">
+<img width="1437" alt="Screen Shot 2022-04-27 at 12 23 11 PM" src="https://user-images.githubusercontent.com/86858869/165604148-39bba28b-46db-4d74-b55b-3b0147ad6bc4.png">
 
 I answered A (An application that allows users to convert measurement units (e.g., inches to centimeters, ounces to liters)) for Question #23, which was incorrect; the correct answer was D (An application that allows users to view descriptions and photographs of local landmarks), because conversion rates are commonly known and searchable.
 
