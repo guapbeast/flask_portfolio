@@ -1,7 +1,7 @@
 {% include APexamStudy.html %}
 
 
-**Total Score 46/50**
+**Total Score 38/50**
 
 
 **Question #1:**
