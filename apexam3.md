@@ -22,7 +22,8 @@ Question # 6 was a multiple answer choice problem and I chose answers A and C, w
 
 <img width="1437" alt="Screen Shot 2022-04-27 at 12 23 11 PM" src="https://user-images.githubusercontent.com/86858869/165604148-39bba28b-46db-4d74-b55b-3b0147ad6bc4.png">
 
-I answered A (An application that allows users to convert measurement units (e.g., inches to centimeters, ounces to liters)) for Question #23, which was incorrect; the correct answer was D (An application that allows users to view descriptions and photographs of local landmarks), because conversion rates are commonly known and searchable.
+I answered B (Step 1:
+Assign each student a unique integer from 1 to 30. Step 2: Generate a random integer n from 1 to 30. Step 3: Select the student who is currently assigned integer n and display the student’s name. Step 4: Generate a new random integer n from 1 to 30. Step 5: Select the student who is currently assigned integer n and display the student’s name.) for Question #8, which was incorrect; the correct answer was D, since B contains the possibility of having multiple students selected twice.
 
 **Question #43**
 
