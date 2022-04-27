@@ -4,9 +4,10 @@
 **Total Score 38/50**
 
 
-**Question #1:**
+**Question #3:**
 
-<img width="1440" alt="Screen Shot 2022-04-25 at 1 12 59 PM" src="https://user-images.githubusercontent.com/86858869/165167356-ed92a91f-223e-4215-8e01-d1b8c8ecc802.png">
+![Screen Shot 2022-04-26 at 9 32 57 PM](https://user-images.githubusercontent.com/86858869/165441339-b4a47ef7-5b87-4a83-b751-36d5d4ee4fed.png)
+
 
 I answered B for Question #1 (Any solution can be broken down into smaller and smaller parallel portions, making the improvement in efficiency theoretically limitless as long as there are enough processors available.), however, the correct answer was D: 
 The efficiency of a solution that can be broken down into parallel portions is still limited by a sequential portion.
