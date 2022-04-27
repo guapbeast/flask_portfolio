@@ -12,11 +12,11 @@
 I answered B for Question #3 (I and II), however, the correct answer was B: II only. B is the correct answer in this instance because the algorithm I does not work in the given situation.
 
 
-**Question #12:**
+**Question #6:**
 
-<img width="1440" alt="Screen Shot 2022-04-25 at 1 14 26 PM" src="https://user-images.githubusercontent.com/86858869/165167599-6cfdf4b2-198d-4c83-80c6-31e9fe15bda8.png">
+![Screen Shot 2022-04-27 at 12 16 20 PM](https://user-images.githubusercontent.com/86858869/165602892-40a97f52-6780-4141-8c7c-203112fc367a.png)
 
-I answered B for Question #3 (I and II), however, the correct answer was B: II only. B is the correct answer in this instance because the algorithm I does not work in the given situation.
+Question # 6 was a multiple answer choice problem and I chose answers A and C, which were incorrect; the correct answers were A and D because answer C doesn't display the number 20.
 
 **Question #23:**
 
