@@ -46,6 +46,7 @@ i. The overall purpose of the program is to provide a resource for AP Computer S
 iii. A multitude of inputs and outputs are present in the program. The user interacts with a series of menus and submenus, in which the user inputs a numerical value, outputting a result on the runtime: navigation of the menu. The user gets directed to either another menu, or to a resource to study based on their choice. Another form of inputs and outputs within the program are the quizzes. The user gets prompted to input an answer, either a, b, c, or d, corresponding to the questions that are displayed, and are outputted with their results, displaying the % of correct questions and the correct answers.
 
   3b:
+  i.
   ```
   prompts = {
    "What is a Bit?: ": "a",
@@ -53,6 +54,25 @@ iii. A multitude of inputs and outputs are present in the program. The user inte
    "What is a Roundoff Error?": "d",
    "What is Lossy Compression?: ": "a"
   }
+```
+
+ii.
+
+```
+    quizquestion = 1
+  
+
+    for key in prompts:
+        print(" ")
+        print(key)
+      # since the first element has an index of 0, 1 is subtracted from quizquestion variable, which is set to the value one to begin with, therefore, subtracting one would set the index to 0.
+        for i in options[quizquestion-1]:
+            print(i)
+          # users can choose inputs between the values a, b, c, and d.
+        choice = input("Enter either a, b, c, or d: ")
+       # inputted answers are converted into lower case
+        choice = choice.lower()
+        answers.append(choice)
 ```
 
 
