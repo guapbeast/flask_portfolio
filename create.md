@@ -41,7 +41,10 @@ Some issues that I've encountered so far are getting the API to function properl
 
 3a:
 
-The overall purpose of the program is to provide a resource for AP Computer Science Principles students to review and study vocabulary terms from all 5 of the Collegeboard Big Idea Units. The progarm
+i. The overall purpose of the program is to provide a resource for AP Computer Science Principles students to review and study vocabulary terms from all 5 of the Collegeboard Big Idea Units. The program
+
+iii. A multitude of inputs and outputs are present in the program. The user interacts with a series of menus and submenus, in which the user inputs a numerical value, outputting a result on the runtime: navigation of the menu. The user gets directed to 
+
 3b:
 I.  const words = ['javascript', 'html', 'github', 'intellij', 'compsci', 'css', 'python', 'binary', 'hexadecimal', 'sassybootsrap', 'codecodecode', 'pbl'];
 
