@@ -53,21 +53,6 @@ iii. A multitude of inputs and outputs are present in the program. The user inte
    "What is a Roundoff Error?": "d",
    "What is Lossy Compression?: ": "a"
   }
-
-
-  # The lists below contain the questions for the quiz along with the letter that the question is tied to, so that the list above with the actual questions being implemented by the quiz connects to the options for the quiz.
-
-  options = [[" ","A. A binary digit, either 0 or 1.", " ", "B. A sequence of 8 bits"," ", "C. Data about data, like descriptive information about a file or a row in a database.", " ","D. Error that results when the number of bits is not enough to represent the number with full precision (like using 3 digits to represent π as 3.14)"," "],
-
-
- [" ","A. Compressing data in a way that discards some data and makes it impossible to recover the original.", " ", "B. A sequence of 8 bits."," ", "C. Compressing data in a way that preserves all data away and allows full recovery of the original.", " ","D. Data about data, like descriptive information about a file or a row in a database."," "],
-
-
-
-[" ","A. A mistake in an algorithm or program that causes it to behave unexpectedly or return the incorrect value.", " ", "B. The sequential execution of steps in an algorithm or code in a program (like steps in a recipe)."," ", "C.Compressing data in a way that preserves all data away and allows full recovery of the original.", " ","D.Error that results when the number of bits is not enough to represent the number with full precision (like using 3 digits to represent π as 3.14)"," "],
-
-
-[" ","A. Compressing data in a way that discards some data and makes it impossible to recover the original.", " ", "B. The repetition of steps in an algorithm or program for a certain amount of times or until a certain condition is met."," ", "C.Compressing data in a way that preserves all data away and allows full recovery of the original.", " ","D. A sequence of 8 bits."," "]]
 ```
 
 
