@@ -46,6 +46,7 @@ i. The overall purpose of the program is to provide a resource for AP Computer S
 iii. A multitude of inputs and outputs are present in the program. The user interacts with a series of menus and submenus, in which the user inputs a numerical value, outputting a result on the runtime: navigation of the menu. The user gets directed to either another menu, or to a resource to study based on their choice. Another form of inputs and outputs within the program are the quizzes. The user gets prompted to input an answer, either a, b, c, or d, corresponding to the questions that are displayed, and are outputted with their results, displaying the % of correct questions and the correct answers.
 
   3b:
+  ```
   prompts = {
    "What is a Bit?: ": "a",
    "What is Lossless Compression?: ": "c",
@@ -67,7 +68,7 @@ iii. A multitude of inputs and outputs are present in the program. The user inte
 
 
             [" ","A. Compressing data in a way that discards some data and makes it impossible to recover the original.", " ", "B. The repetition of steps in an algorithm or program for a certain amount of times or until a certain condition is met."," ", "C.Compressing data in a way that preserves all data away and allows full recovery of the original.", " ","D. A sequence of 8 bits."," "]]
-
+```
 
 
 
