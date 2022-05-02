@@ -75,6 +75,7 @@ ii.
         answers.append(choice)
 ```
 
+iii. The name of the list being used in this collection is a dictionary that contains the questions for the quiz and their respective correct answer choices. Within the program, the data collected through this dictionary represents the bulk of the quizzes: the questions and their answers. Using a collection method, a dictionary in this case, is helpful to manage the complexity of the code because it prevents me from having to call each of the questions manually; by having all of the data collected in the dictionary, I could simply use a for loop in order to call the elements, making the code simpler overall.
 
 
 Ii. let selectedWord = words[Math.floor(Math.random() * words.length)];
@@ -93,7 +94,40 @@ Iii. I used arrays in order to contain data in the form of strings, storing word
 
 3c.
 
-![Code](https://github.com/NinjaBreadLord/super-duper-bassoons/blob/main/static/assets/rithwikh/Screen%20Shot%202022-02-28%20at%208.26.41%20AM.png)
+```
+ for i in options[quizquestion-1]:
+            print(i)
+          # users can choose inputs between the values a, b, c, and d.
+        choice = input("Enter either a, b, c, or d: ")
+      # inputted answers are converted into lowercase
+        choice = choice.lower()
+        answers.append(choice)
+
+        correct_answers += check_answer(questions.get(key), choice)
+      # increases the quizquestion value by 1 for each iteration.
+        quizquestion += 1
+
+    points(correct_answers, answers)
+
+
+def check_answer(answer, choice):
+
+# below, if the user's choice is determined to match the answer of the question established in the list "questions", and uses an if, else statement in order to display whether the answer was correct, or incorrect.
+  
+    if answer == choice:
+        print(" ")
+        print(" ")
+        print(" ")
+        print(" ")
+        print("You got the answer correct!")
+        return 1
+    else:
+        print(" ")
+        print(" ")
+        print(" ")
+        print("Your answer was incorrect.")
+        return 0
+```
 
 
 The written procedure contributes much to the program as it makes up a large part of the infrastructure of the program. Since the idea of the program is to create a guessing word game, the algorithm provides the code segment for the displaying of the letters as the user inputs characters into the program. The algorithm implemented in the procedure uses identifiers in order to identify elements of the program and then uses javascript algorithms in the form of conditional statements which provide actions that are carried out by the program in every situation. One example is when the code uses an if statement on whether the selected word includes the correct letter of the randomized word. If the selected word matches one or more of the correct letters in the randomized word, the letter is revealed, and if not, the else statement displays a notification that tells the user that the letter they chose is incorrect.
