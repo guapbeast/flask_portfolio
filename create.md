@@ -41,13 +41,7 @@ Some issues that I've encountered so far are getting the API to function properl
 
 3a:
 
-The overall purpose of the program is to recommend to the webpage's audience a product that can be found on the website, in a fun and interactive way that also engages the audience.
-
-The program uses Javascript to help the user interact with the webpage and provides inputs to the users in the form of buttons which help the user navigate, as well as character input, which takes inputs from the user which are used by the javascript functionality in order to run the interaction.
-
-The webpage has several forms of input,through the use of javascript functions. The buttons act as a form of input and help direct the user around the webpage, and the input of the characters into the coded game are used to determine and output the user's performance on the game and their results.
-
-
+The overall purpose of the program is to provide a resource for AP Computer Science Principles students to review and study vocabulary terms from all 5 of the Collegeboard Big Idea Units. The progarm
 3b:
 I.  const words = ['javascript', 'html', 'github', 'intellij', 'compsci', 'css', 'python', 'binary', 'hexadecimal', 'sassybootsrap', 'codecodecode', 'pbl'];
 
