@@ -130,6 +130,7 @@ def check_answer(answer, choice):
 ```
 
 
+
 The written procedure contributes much to the program as it makes up a large part of the infrastructure of the program. Since the idea of the program is to create a guessing word game, the algorithm provides the code segment for the displaying of the letters as the user inputs characters into the program. The algorithm implemented in the procedure uses identifiers in order to identify elements of the program and then uses javascript algorithms in the form of conditional statements which provide actions that are carried out by the program in every situation. One example is when the code uses an if statement on whether the selected word includes the correct letter of the randomized word. If the selected word matches one or more of the correct letters in the randomized word, the letter is revealed, and if not, the else statement displays a notification that tells the user that the letter they chose is incorrect.
 
 
