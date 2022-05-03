@@ -1,7 +1,7 @@
 {% include APexamStudy.html %}
 
 
-**Total Score 46/50**
+**Total Score 44/50**
 
 
 **Question #3:**
@@ -38,3 +38,11 @@ I answered C (string) for Question #43, which was incorrect; the correct answer 
 <img width="1440" alt="Screen Shot 2022-05-03 at 1 31 55 PM" src="https://user-images.githubusercontent.com/86858869/166561117-49f700c0-97d0-4f08-8970-5ba9c42a9b0b.png">
 
 I answered B for question # 17, however the correct answer was C and D, because the procedure listed for B returns the correct answer, not the incorrect answer.
+
+
+**Question # 18**
+
+<img width="1440" alt="Screen Shot 2022-05-03 at 1 39 13 PM" src="https://user-images.githubusercontent.com/86858869/166562127-35ba24a3-a836-40ed-9417-86c147e5404b.png">
+
+
+I answered B for question # 18, which was incorrect; the correc answer was C, because the procedure from be will never generate a positive value.
