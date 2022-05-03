@@ -59,3 +59,9 @@ I answered A for question # 24 (Check if the time is outside of business hours. 
 
 I answered C for question # 32 (II and III only), which was incorrect; the correct answer was B(II only), because the expression 12 + 3 would not create an overflow error.
 
+
+**Question # 36**
+
+<img width="1440" alt="Screen Shot 2022-05-03 at 2 03 20 PM" src="https://user-images.githubusercontent.com/86858869/166565870-bc80256e-baf3-4b69-bd6a-4b95589a1c8c.png">
+
+I answered C and D (7 and 6) for question #36, which was incorrect; the correct answer was B and C ()8 and 6 because the algorithm displays correctly when 7 is inputted.
