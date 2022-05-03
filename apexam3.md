@@ -1,7 +1,7 @@
 {% include APexamStudy.html %}
 
 
-**Total Score 38/50**
+**Total Score 46/50**
 
 
 **Question #3:**
@@ -25,8 +25,9 @@ Question # 6 was a multiple answer choice problem and I chose answers A and C, w
 I answered B (Step 1:
 Assign each student a unique integer from 1 to 30. Step 2: Generate a random integer n from 1 to 30. Step 3: Select the student who is currently assigned integer n and display the student’s name. Step 4: Generate a new random integer n from 1 to 30. Step 5: Select the student who is currently assigned integer n and display the student’s name.) for Question #8, which was incorrect; the correct answer was D, since B contains the possibility of having multiple students selected twice.
 
-**Question #43**
+**Question #10**
 
-![Screen Shot 2022-04-25 at 2 54 48 PM](https://user-images.githubusercontent.com/86858869/165181524-2fcf50a1-0c2d-4dd9-8989-d472e247aa5c.png)
+<img width="1440" alt="Screen Shot 2022-05-03 at 1 28 48 PM" src="https://user-images.githubusercontent.com/86858869/166560560-12dc607c-5630-4aa1-9ad2-03595daf51f9.png">
 
-I answered C (The most expensive item purchased on a given date can be determined by searching the data for all items purchased on the given date and then sorting the matching items by item price) for Question #43, which was incorrect; the correct answer was D (The total number of items purchased on a given date can be determined by searching the data for all transactions that occurred on the given date and then adding the number of items purchased for each matching transaction), because the most expensive item cannot be determined by the use of the data collected.
+
+I answered C (string) for Question #43, which was incorrect; the correct answer was A (Boolean), because the use of a boolean is more appropriate in this case.
