@@ -53,4 +53,9 @@ I answered B for question # 18, which was incorrect; the correc answer was C, be
 
 I answered A for question # 24 (Check if the time is outside of business hours. If it is, check if the gate sensor is activated. If it is, check if the gate is closed. If it is, turn on the motor.), which was incorrect; the correct answer was D (Check if the time is during business hours. If it is, check if the gate sensor is activated. If it is, check if the gate is open. If it is not, turn on the motor.) because A allows for the motor to activate outside of the hours of business.
 
+**Question # 32**
+
+<img width="1440" alt="Screen Shot 2022-05-03 at 1 57 59 PM" src="https://user-images.githubusercontent.com/86858869/166565029-bfc24659-4717-4b5c-a33d-8120bd2f1d7b.png">
+
+I answered C for question # 32 (II and III only), which was incorrect; the correct answer was B(II only), because the expression 12 + 3 would not create an overflow error.
 
