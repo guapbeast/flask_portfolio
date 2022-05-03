@@ -72,3 +72,10 @@ I answered C and D (7 and 6) for question #36, which was incorrect; the correct 
 <img width="1440" alt="Screen Shot 2022-05-03 at 2 06 16 PM" src="https://user-images.githubusercontent.com/86858869/166566250-829dc219-9157-40c6-b7d1-bf76fdca97ef.png">
 
 I answered D (Individuals will be legally prevented from using excerpts from the e-book in another published work.)for question #38, which was incorrect; the correct answer was B (Individuals can freely distribute or use the contents of the e-book without needing to obtain additional permissions from the author.), because people won't be prevented from using the texts.
+
+
+**Question #46**
+
+![Screen Shot 2022-05-03 at 2 08 19 PM](https://user-images.githubusercontent.com/86858869/166566612-1939af36-0b8e-4457-8cd9-b4a451a5b244.png)
+
+I answered C (Hannah writes a message to send to Isabel and hides the message under a rock behind the soccer field. Hannah gives Isabel the exact location of the rock so that only Isabel can find the message.) for question #46, which was incorrect; the correct answer was B (Finn and Gwen develop a system that maps each letter of the alphabet to a unique symbol using a secret key. Finn uses the key to write a message to Gwen where each letter is replaced with the corresponding symbol. Gwen uses the key to map each symbol back to the original letter.), because the system doesn't hide the data.
