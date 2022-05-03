@@ -46,3 +46,11 @@ I answered B for question # 17, however the correct answer was C and D, because 
 
 
 I answered B for question # 18, which was incorrect; the correc answer was C, because the procedure from be will never generate a positive value.
+
+**Question # 24**
+
+<img width="1440" alt="Screen Shot 2022-05-03 at 1 55 27 PM" src="https://user-images.githubusercontent.com/86858869/166564521-b60e832c-781a-42f3-ba68-167237b76a8d.png">
+
+I answered A for question # 24 (Check if the time is outside of business hours. If it is, check if the gate sensor is activated. If it is, check if the gate is closed. If it is, turn on the motor.), which was incorrect; the correct answer was D (Check if the time is during business hours. If it is, check if the gate sensor is activated. If it is, check if the gate is open. If it is not, turn on the motor.) because A allows for the motor to activate outside of the hours of business.
+
+
