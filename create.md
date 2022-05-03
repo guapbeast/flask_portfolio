@@ -95,15 +95,29 @@ Iii. I used arrays in order to contain data in the form of strings, storing word
 3c.
 
 ```
- for i in options[quizquestion-1]:
+def start_quiz():
+
+# the definition start_quiz defines the function that will run the quizzes on main.py 
+
+    answers = []
+    correct_answers = 0
+  # quizquestion establishes the current question in a quiz session
+    quizquestion = 1
+  
+
+    for key in prompts:
+        print(" ")
+        print(key)
+      # since the first element has an index of 0, 1 is subtracted from quizquestion variable, which is set to the value one to begin with, therefore, subtracting one would set the index to 0.
+        for i in options[quizquestion-1]:
             print(i)
           # users can choose inputs between the values a, b, c, and d.
         choice = input("Enter either a, b, c, or d: ")
-      # inputted answers are converted into lowercase
+       # inputted answers are converted into lower case
         choice = choice.lower()
         answers.append(choice)
 
-        correct_answers += check_answer(questions.get(key), choice)
+        correct_answers += check_answer(prompts.get(key), choice)
       # increases the quizquestion value by 1 for each iteration.
         quizquestion += 1
 
@@ -127,6 +141,58 @@ def check_answer(answer, choice):
         print(" ")
         print("Your answer was incorrect.")
         return 0
+
+
+def points(correct_answers, answers):
+    print("♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬♬")
+    print(" ☺ Your Results! ☺")
+  
+
+# below, the number of correct answers is divided by the number of total questions in the quiz, which is then multiplied by 100 in order to find a percentag of correct answers.
+
+    score = int((correct_answers/len(prompts))*100)
+    print(" ")
+    print(" ")
+    print("You got "+str(score)+"% on the Quiz.")
+
+# the print statements on lines 47 and 48, as well as lines 33-35 and 26-29 help to format the runtime of the quiz, addinf spacing to make the quiz easier to read for the user.
+    print("Correct Responses ... ", end="")
+    for i in prompts:
+        print(prompts.get(i), end=" ")
+    print()
+
+# The lists below contains the questions that will be asked in the quiz, along with the correct answer to the questions, which will be used by the check_answer function in order to determine whether the user chooses the correct answer.
+
+
+# Loops back to the beginning of the quiz section and calls the function to restart
+initiate_quiz()
+
+
+prompts = {
+ "What is a Bit?: ": "a",
+ "What is Lossless Compression?: ": "c",
+ "What is a Roundoff Error?": "d",
+ "What is Lossy Compression?: ": "a"
+}
+
+
+# The lists below contain the questions for the quiz along with the letter that the question is tied to, so that the list above with the actual questions being implemented by the quiz connects to the options for the quiz.
+
+options = [[" ","A. A binary digit, either 0 or 1.", " ", "B. A sequence of 8 bits"," ", "C. Data about data, like descriptive information about a file or a row in a database.", " ","D. Error that results when the number of bits is not enough to represent the number with full precision (like using 3 digits to represent π as 3.14)"," "],
+           
+           
+          [" ","A. Compressing data in a way that discards some data and makes it impossible to recover the original.", " ", "B. A sequence of 8 bits."," ", "C. Compressing data in a way that preserves all data away and allows full recovery of the original.", " ","D. Data about data, like descriptive information about a file or a row in a database."," "],
+
+           
+           
+          [" ","A. A mistake in an algorithm or program that causes it to behave unexpectedly or return the incorrect value.", " ", "B. The sequential execution of steps in an algorithm or code in a program (like steps in a recipe)."," ", "C.Compressing data in a way that preserves all data away and allows full recovery of the original.", " ","D.Error that results when the number of bits is not enough to represent the number with full precision (like using 3 digits to represent π as 3.14)"," "],
+
+           
+          [" ","A. Compressing data in a way that discards some data and makes it impossible to recover the original.", " ", "B. The repetition of steps in an algorithm or program for a certain amount of times or until a certain condition is met."," ", "C.Compressing data in a way that preserves all data away and allows full recovery of the original.", " ","D. A sequence of 8 bits."," "]]
+
+
+
+
 ```
 
 
