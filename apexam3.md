@@ -31,3 +31,10 @@ Assign each student a unique integer from 1 to 30. Step 2: Generate a random int
 
 
 I answered C (string) for Question #43, which was incorrect; the correct answer was A (Boolean), because the use of a boolean is more appropriate in this case.
+
+
+**Question #17**
+
+<img width="1440" alt="Screen Shot 2022-05-03 at 1 31 55 PM" src="https://user-images.githubusercontent.com/86858869/166561117-49f700c0-97d0-4f08-8970-5ba9c42a9b0b.png">
+
+I answered B for question # 17, however the correct answer was C and D, because the procedure listed for B returns the correct answer, not the incorrect answer.
