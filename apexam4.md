@@ -19,17 +19,17 @@ I answered B (Lossless compression of an image file will generally result in a f
 
 **Question #15**
 
-<img width="1437" alt="Screen Shot 2022-04-27 at 12 23 11 PM" src="https://user-images.githubusercontent.com/86858869/165604148-39bba28b-46db-4d74-b55b-3b0147ad6bc4.png">
+<img width="1439" alt="Screen Shot 2022-05-05 at 12 44 01 PM" src="https://user-images.githubusercontent.com/86858869/167013514-17fed5de-aabb-4dca-bce7-1b373f69b2b0.png">
 
-I answered B (Step 1:
-Assign each student a unique integer from 1 to 30. Step 2: Generate a random integer n from 1 to 30. Step 3: Select the student who is currently assigned integer n and display the student’s name. Step 4: Generate a new random integer n from 1 to 30. Step 5: Select the student who is currently assigned integer n and display the student’s name.) for Question #8, which was incorrect; the correct answer was D, since B contains the possibility of having multiple students selected twice.
+
+I answered A (Program A and program B display identical values.) for question #15, which was incorrect; the correct answer was C (Program A and program B display the same number of values, but the values differ.), because both programs display different values.
 
 **Question #10**
 
 <img width="1440" alt="Screen Shot 2022-05-03 at 1 28 48 PM" src="https://user-images.githubusercontent.com/86858869/166560560-12dc607c-5630-4aa1-9ad2-03595daf51f9.png">
 
 
-I answered C (string) for Question #43, which was incorrect; the correct answer was A (Boolean), because the use of a boolean is more appropriate in this case.
+I answered A (Program A and program B display identical values.) for question #15, which was incorrect; the correct answer was C (Program A and program B display the same number of values, but the values differ.), because both programs display different values.
 
 
 **Question #17**
