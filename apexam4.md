@@ -71,15 +71,9 @@ Correct Answer: C --> 4
 Correct Answer: A The file is broken into packets for transmission. The packets must be reassembled upon receipt.
 
 
-**Question #46**
+**Question #45**
 
-![Screen Shot 2022-05-03 at 2 08 19 PM](https://user-images.githubusercontent.com/86858869/166566612-1939af36-0b8e-4457-8cd9-b4a451a5b244.png)
+<img width="1439" alt="Screen Shot 2022-05-05 at 12 58 05 PM" src="https://user-images.githubusercontent.com/86858869/167015675-60274c56-a075-452f-8689-2cea3343e523.png">
 
-I answered C (Hannah writes a message to send to Isabel and hides the message under a rock behind the soccer field. Hannah gives Isabel the exact location of the rock so that only Isabel can find the message.) for question #46, which was incorrect; the correct answer was B (Finn and Gwen develop a system that maps each letter of the alphabet to a unique symbol using a secret key. Finn uses the key to write a message to Gwen where each letter is replaced with the corresponding symbol. Gwen uses the key to map each symbol back to the original letter.), because the system doesn't hide the data.
+Correct Answer: C Both code segments display the correct average, but code segment I requires more arithmetic operations than code segment II.
 
-
-**Question #47**
-
-![Screen Shot 2022-05-03 at 2 10 48 PM](https://user-images.githubusercontent.com/86858869/166566958-99b62d5a-52f3-457f-8e3f-236dc35440e1.png)
-
-I answered C and D for Question #47, which was incorrect; the correct answer was C and A because bonus is incorrectly set to score when score is valued at greater than 100.
