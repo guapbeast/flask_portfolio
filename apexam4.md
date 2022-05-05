@@ -51,11 +51,11 @@ I answered B for question # 18, which was incorrect; the correc answer was C, be
 
 Correct Answer: Public key encryption enables parties to initiate secure communications through an open medium, such as the Internet, in which there might be eavesdroppers.
 
-**Question # 32**
+**Question # 25**
 
-<img width="1440" alt="Screen Shot 2022-05-03 at 1 57 59 PM" src="https://user-images.githubusercontent.com/86858869/166565029-bfc24659-4717-4b5c-a33d-8120bd2f1d7b.png">
+![Screen Shot 2022-05-05 at 12 53 59 PM](https://user-images.githubusercontent.com/86858869/167015078-d79274a9-9edb-466f-b7b5-84aa67884a6d.png)
 
-I answered C for question # 32 (II and III only), which was incorrect; the correct answer was B(II only), because the expression 12 + 3 would not create an overflow error.
+Correct Answer: C [30, 50, 40, 10, 20, 40] & A [10, 10, 20, 20, 10, 10]
 
 
 **Question # 36**
