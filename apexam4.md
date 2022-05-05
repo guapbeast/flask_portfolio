@@ -11,13 +11,13 @@
 I answered A for Question #2, which was incorrect; the correct answer was B, because there are two calls to random instead of only one.
 
 
-**Question #6:**
+**Question #8:**
 
-![Screen Shot 2022-04-27 at 12 16 20 PM](https://user-images.githubusercontent.com/86858869/165602892-40a97f52-6780-4141-8c7c-203112fc367a.png)
+<img width="1439" alt="Screen Shot 2022-05-05 at 12 39 28 PM" src="https://user-images.githubusercontent.com/86858869/167012922-99ad7006-b6a1-49a1-8c0c-a7ab15531a34.png">
 
-Question # 6 was a multiple answer choice problem and I chose answers A and C, which were incorrect; the correct answers were A and D because answer C doesn't display the number 20.
+I answered B (Lossless compression of an image file will generally result in a file that is equal in size to the original file.) for Question #8, which was incorrect; the correct answer was C (Lossy compression of an image file generally provides a greater reduction in transmission time than lossless compression does.), because lossless compression decreases the sizes of files.
 
-**Question #8**
+**Question #15**
 
 <img width="1437" alt="Screen Shot 2022-04-27 at 12 23 11 PM" src="https://user-images.githubusercontent.com/86858869/165604148-39bba28b-46db-4d74-b55b-3b0147ad6bc4.png">
 
