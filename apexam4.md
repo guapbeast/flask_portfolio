@@ -58,18 +58,17 @@ Correct Answer: Public key encryption enables parties to initiate secure communi
 Correct Answer: C [30, 50, 40, 10, 20, 40] & A [10, 10, 20, 20, 10, 10]
 
 
-**Question # 36**
+**Question # 31**
 
-<img width="1440" alt="Screen Shot 2022-05-03 at 2 03 20 PM" src="https://user-images.githubusercontent.com/86858869/166565870-bc80256e-baf3-4b69-bd6a-4b95589a1c8c.png">
+<img width="1439" alt="Screen Shot 2022-05-05 at 12 55 39 PM" src="https://user-images.githubusercontent.com/86858869/167015354-5d7b7968-fd63-47e6-b718-013903454789.png">
 
-I answered C and D (7 and 6) for question #36, which was incorrect; the correct answer was B and C ()8 and 6 because the algorithm displays correctly when 7 is inputted.
+Correct Answer: C --> 4
 
+**Question #36**
 
-**Question #38**
+<img width="1440" alt="Screen Shot 2022-04-25 at 12 13 22 PM" src="https://user-images.githubusercontent.com/86858869/167015530-6e402e04-3a59-4db1-8949-fbdec0408677.png">
 
-<img width="1440" alt="Screen Shot 2022-05-03 at 2 06 16 PM" src="https://user-images.githubusercontent.com/86858869/166566250-829dc219-9157-40c6-b7d1-bf76fdca97ef.png">
-
-I answered D (Individuals will be legally prevented from using excerpts from the e-book in another published work.)for question #38, which was incorrect; the correct answer was B (Individuals can freely distribute or use the contents of the e-book without needing to obtain additional permissions from the author.), because people won't be prevented from using the texts.
+Correct Answer: A The file is broken into packets for transmission. The packets must be reassembled upon receipt.
 
 
 **Question #46**
