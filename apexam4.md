@@ -24,25 +24,24 @@ I answered B (Lossless compression of an image file will generally result in a f
 
 I answered A (Program A and program B display identical values.) for question #15, which was incorrect; the correct answer was C (Program A and program B display the same number of values, but the values differ.), because both programs display different values.
 
-**Question #10**
+**Question #16**
 
-<img width="1440" alt="Screen Shot 2022-05-03 at 1 28 48 PM" src="https://user-images.githubusercontent.com/86858869/166560560-12dc607c-5630-4aa1-9ad2-03595daf51f9.png">
+<img width="1439" alt="Screen Shot 2022-05-05 at 12 47 40 PM" src="https://user-images.githubusercontent.com/86858869/167014122-3fc4d7b4-b333-4534-913e-00730f38ab4e.png">
 
-
-I answered A (Program A and program B display identical values.) for question #15, which was incorrect; the correct answer was C (Program A and program B display the same number of values, but the values differ.), because both programs display different values.
+Correct Answer: Program A and program B display identical values in the same order.
 
 
 **Question #17**
 
-<img width="1440" alt="Screen Shot 2022-05-03 at 1 31 55 PM" src="https://user-images.githubusercontent.com/86858869/166561117-49f700c0-97d0-4f08-8970-5ba9c42a9b0b.png">
+<img width="1439" alt="Screen Shot 2022-05-05 at 12 47 45 PM" src="https://user-images.githubusercontent.com/86858869/167014310-c1119dd0-be9c-44f4-a5ac-7ab838c147de.png">
 
-I answered B for question # 17, however the correct answer was C and D, because the procedure listed for B returns the correct answer, not the incorrect answer.
-
+Correct Answer: Version II requires approximately 5 more minutes to execute than version I.
 
 **Question # 18**
 
-<img width="1440" alt="Screen Shot 2022-05-03 at 1 39 13 PM" src="https://user-images.githubusercontent.com/86858869/166562127-35ba24a3-a836-40ed-9417-86c147e5404b.png">
+<img width="1439" alt="Screen Shot 2022-05-05 at 12 47 55 PM" src="https://user-images.githubusercontent.com/86858869/167014429-6e065a89-a16f-4885-9c73-ba0037b08267.png">
 
+Correct Answer:  Public key encryption enables parties to initiate secure communications through an open medium, such as the Internet, in which there might be eavesdroppers.
 
 I answered B for question # 18, which was incorrect; the correc answer was C, because the procedure from be will never generate a positive value.
 
