@@ -66,7 +66,8 @@ Correct Answer: C --> 4
 
 **Question #36**
 
-<img width="1440" alt="Screen Shot 2022-04-25 at 12 13 22 PM" src="https://user-images.githubusercontent.com/86858869/167015530-6e402e04-3a59-4db1-8949-fbdec0408677.png">
+<img width="1439" alt="Screen Shot 2022-05-05 at 12 59 08 PM" src="https://user-images.githubusercontent.com/86858869/167015836-93b09e5c-f7ad-4cfe-b05f-10ba3b6865cf.png">
+
 
 Correct Answer: A The file is broken into packets for transmission. The packets must be reassembled upon receipt.
 
