@@ -1,15 +1,14 @@
 {% include APexamStudy.html %}
 
 
-**Total Score 38/50**
+**Total Score 39/50**
 
 
-**Question #3:**
+**Question #2:**
 
-![Screen Shot 2022-04-26 at 9 32 57 PM](https://user-images.githubusercontent.com/86858869/165441339-b4a47ef7-5b87-4a83-b751-36d5d4ee4fed.png)
+<img width="1439" alt="Screen Shot 2022-05-05 at 12 23 52 PM" src="https://user-images.githubusercontent.com/86858869/167010490-0d8422d7-3a85-4d16-92b1-8434ab8427e2.png">
 
-
-I answered B for Question #3 (I and II), however, the correct answer was B: II only. B is the correct answer in this instance because the algorithm I does not work in the given situation.
+I answered A for Question #2, which was incorrect; the correct answer was B, because there are two calls to random instead of only one.
 
 
 **Question #6:**
